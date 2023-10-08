@@ -387,12 +387,14 @@ footer img{
   
   .container-bar div{
     width: 100%;
-    font-size: 15px;
+    font-size: 5px;
+    border: solid red;
   
   }
   
   .container-bar button{
-    padding: 5px 20px;
+    padding: 2px 10px;
+    
     
   }
   

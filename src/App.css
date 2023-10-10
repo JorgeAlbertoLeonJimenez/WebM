@@ -293,6 +293,7 @@ footer img{
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
   }
   .welcome {
     width: 80%;
